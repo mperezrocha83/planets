@@ -3,5 +3,5 @@
 
 ##analyze color of MArs
 
-red <- read.csv(color_spreadsheet.txt)
+red <- read.csv("color_spreadsheet.csv")
 
