@@ -5,4 +5,4 @@
 
 red <- read.csv("color_spreadsheet.csv")### import file
 plot (red) ## make a red plot
-venus <- planets [,2]
+venus <- planets [,2] #adding venus 
